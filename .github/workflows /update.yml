@@ -1,5 +1,8 @@
 name: Update richlist data
-on: push
+on:
+  push:
+    branches:
+      - 'main'
 
 jobs:
   update-readme:
