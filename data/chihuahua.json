@@ -3,35 +3,35 @@
     "address": "chihuahua1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3kwypc4",
     "balance": {
       "denom": "uhuahua",
-      "amount": "48197943840038968"
+      "amount": "48207336483831923"
     }
   },
   {
     "address": "chihuahua1r726yra3euctv92qqfxh45xztewgp2qjh3k5k8",
     "balance": {
       "denom": "uhuahua",
-      "amount": "18145152811822993"
+      "amount": "18151601199946928"
     }
   },
   {
     "address": "chihuahua1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8y2fjga",
     "balance": {
       "denom": "uhuahua",
-      "amount": "10299402927104636"
+      "amount": "10306637145943953"
     }
   },
   {
     "address": "chihuahua1qe3n3yrxl2j3w7fetn3lfssmkpad8tjfyms4a9",
     "balance": {
       "denom": "uhuahua",
-      "amount": "3411388759656104"
+      "amount": "3400810045341104"
     }
   },
   {
     "address": "chihuahua1tygms3xhhs3yv487phx3dw4a95jn7t7lzwcswp",
     "balance": {
       "denom": "uhuahua",
-      "amount": "2893174881657768"
+      "amount": "2858117278876705"
     }
   },
   {
@@ -80,7 +80,7 @@
     "address": "chihuahua1l4735tn25cr0tjyjtdlcla020843hgjvtmvwrdtazfp9ut0a9arsd5w4ys",
     "balance": {
       "denom": "uhuahua",
-      "amount": "797508769721171"
+      "amount": "783732758963074"
     }
   },
   {
@@ -154,6 +154,13 @@
     }
   },
   {
+    "address": "chihuahua16x3gyxe9r068xgmak5t5zcls56ztu67p7zkjml",
+    "balance": {
+      "denom": "uhuahua",
+      "amount": "261418184474699"
+    }
+  },
+  {
     "address": "chihuahua13nhxv8mcmqx623aj90xqaeya2exfs7xsxxng6t",
     "balance": {
       "denom": "uhuahua",
@@ -161,10 +168,10 @@
     }
   },
   {
-    "address": "chihuahua16x3gyxe9r068xgmak5t5zcls56ztu67p7zkjml",
+    "address": "chihuahua18wamg37s5v9fgnny7qh33h9twjfskf3s88j9a7",
     "balance": {
       "denom": "uhuahua",
-      "amount": "259413711925350"
+      "amount": "245805250277146"
     }
   },
   {
@@ -179,13 +186,6 @@
     "balance": {
       "denom": "uhuahua",
       "amount": "243955050430000"
-    }
-  },
-  {
-    "address": "chihuahua18wamg37s5v9fgnny7qh33h9twjfskf3s88j9a7",
-    "balance": {
-      "denom": "uhuahua",
-      "amount": "234623362904623"
     }
   },
   {
@@ -567,6 +567,13 @@
     }
   },
   {
+    "address": "chihuahua1s5fnh9q53auq59ugy93dzvwp2cjdcc6wykex2c",
+    "balance": {
+      "denom": "uhuahua",
+      "amount": "34119671125435"
+    }
+  },
+  {
     "address": "chihuahua1ggcxyngdy2zk5ef3spxkyk0lavfxx4yhnxduly",
     "balance": {
       "denom": "uhuahua",
@@ -647,7 +654,7 @@
     "address": "chihuahua1pv8shjh4247g5jdnyvsx2l02k4aung5528x58d",
     "balance": {
       "denom": "uhuahua",
-      "amount": "30384735911708"
+      "amount": "30384350309466"
     }
   },
   {
@@ -690,13 +697,6 @@
     "balance": {
       "denom": "uhuahua",
       "amount": "29053190341400"
-    }
-  },
-  {
-    "address": "chihuahua18jj8eq7xpyqdv9cdxpyxn0ulspmhx424q9y3md",
-    "balance": {
-      "denom": "uhuahua",
-      "amount": "27753430630926"
     }
   }
 ]
