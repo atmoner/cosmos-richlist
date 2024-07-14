@@ -3,35 +3,35 @@
     "address": "chihuahua1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3kwypc4",
     "balance": {
       "denom": "uhuahua",
-      "amount": "49601346398670997"
+      "amount": "49602129929996347"
     }
   },
   {
     "address": "chihuahua1r726yra3euctv92qqfxh45xztewgp2qjh3k5k8",
     "balance": {
       "denom": "uhuahua",
-      "amount": "18868075495604360"
+      "amount": "18849364363604071"
     }
   },
   {
     "address": "chihuahua1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8y2fjga",
     "balance": {
       "denom": "uhuahua",
-      "amount": "10458984045143875"
+      "amount": "10461235176068458"
     }
   },
   {
     "address": "chihuahua1qe3n3yrxl2j3w7fetn3lfssmkpad8tjfyms4a9",
     "balance": {
       "denom": "uhuahua",
-      "amount": "3539534087972421"
+      "amount": "3532545974832421"
     }
   },
   {
     "address": "chihuahua1tygms3xhhs3yv487phx3dw4a95jn7t7lzwcswp",
     "balance": {
       "denom": "uhuahua",
-      "amount": "3348662783335287"
+      "amount": "3349662684807162"
     }
   },
   {
@@ -80,7 +80,7 @@
     "address": "chihuahua1l4735tn25cr0tjyjtdlcla020843hgjvtmvwrdtazfp9ut0a9arsd5w4ys",
     "balance": {
       "denom": "uhuahua",
-      "amount": "576448588140049"
+      "amount": "579765302012382"
     }
   },
   {
@@ -227,7 +227,7 @@
     "address": "chihuahua16x3gyxe9r068xgmak5t5zcls56ztu67p7zkjml",
     "balance": {
       "denom": "uhuahua",
-      "amount": "144831025434462"
+      "amount": "143918534779568"
     }
   },
   {
@@ -343,6 +343,13 @@
     }
   },
   {
+    "address": "chihuahua13sc66ae36a8m6zcqyg8h63t9syjeg5a7meuad7",
+    "balance": {
+      "denom": "uhuahua",
+      "amount": "90105363098427"
+    }
+  },
+  {
     "address": "chihuahua138897rghcgukk8vumm9u2z7q950mwksax35tzd",
     "balance": {
       "denom": "uhuahua",
@@ -368,13 +375,6 @@
     "balance": {
       "denom": "uhuahua",
       "amount": "84591074669319"
-    }
-  },
-  {
-    "address": "chihuahua13sc66ae36a8m6zcqyg8h63t9syjeg5a7meuad7",
-    "balance": {
-      "denom": "uhuahua",
-      "amount": "81006021232179"
     }
   },
   {
