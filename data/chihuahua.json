@@ -3,35 +3,35 @@
     "address": "chihuahua1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3kwypc4",
     "balance": {
       "denom": "uhuahua",
-      "amount": "49404025173543273"
+      "amount": "49245941882497541"
     }
   },
   {
     "address": "chihuahua1r726yra3euctv92qqfxh45xztewgp2qjh3k5k8",
     "balance": {
       "denom": "uhuahua",
-      "amount": "19084894112418894"
+      "amount": "19107104273482031"
     }
   },
   {
     "address": "chihuahua1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8y2fjga",
     "balance": {
       "denom": "uhuahua",
-      "amount": "10481876292378159"
-    }
-  },
-  {
-    "address": "chihuahua1qe3n3yrxl2j3w7fetn3lfssmkpad8tjfyms4a9",
-    "balance": {
-      "denom": "uhuahua",
-      "amount": "4217832441748677"
+      "amount": "10484942443491258"
     }
   },
   {
     "address": "chihuahua1tygms3xhhs3yv487phx3dw4a95jn7t7lzwcswp",
     "balance": {
       "denom": "uhuahua",
-      "amount": "4079372590171978"
+      "amount": "4257263312778259"
+    }
+  },
+  {
+    "address": "chihuahua1qe3n3yrxl2j3w7fetn3lfssmkpad8tjfyms4a9",
+    "balance": {
+      "denom": "uhuahua",
+      "amount": "4222438295269677"
     }
   },
   {
@@ -87,7 +87,7 @@
     "address": "chihuahua1l4735tn25cr0tjyjtdlcla020843hgjvtmvwrdtazfp9ut0a9arsd5w4ys",
     "balance": {
       "denom": "uhuahua",
-      "amount": "607446937546232"
+      "amount": "602522237959574"
     }
   },
   {
@@ -129,14 +129,7 @@
     "address": "chihuahua1wn2ka8vm9tkx04062twsc32gwmrn4tthf3wqhr",
     "balance": {
       "denom": "uhuahua",
-      "amount": "412116982213256"
-    }
-  },
-  {
-    "address": "chihuahua18wamg37s5v9fgnny7qh33h9twjfskf3s88j9a7",
-    "balance": {
-      "denom": "uhuahua",
-      "amount": "365114882306501"
+      "amount": "405217494763256"
     }
   },
   {
@@ -144,6 +137,13 @@
     "balance": {
       "denom": "uhuahua",
       "amount": "364871728620618"
+    }
+  },
+  {
+    "address": "chihuahua18wamg37s5v9fgnny7qh33h9twjfskf3s88j9a7",
+    "balance": {
+      "denom": "uhuahua",
+      "amount": "356969832306501"
     }
   },
   {
