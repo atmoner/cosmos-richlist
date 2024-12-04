@@ -3,35 +3,35 @@
     "address": "chihuahua1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3kwypc4",
     "balance": {
       "denom": "uhuahua",
-      "amount": "43966025889901718"
+      "amount": "43961306369946651"
     }
   },
   {
     "address": "chihuahua1r726yra3euctv92qqfxh45xztewgp2qjh3k5k8",
     "balance": {
       "denom": "uhuahua",
-      "amount": "20889095984868634"
+      "amount": "21016518617607846"
     }
   },
   {
     "address": "chihuahua1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8y2fjga",
     "balance": {
       "denom": "uhuahua",
-      "amount": "10208928630035613"
+      "amount": "10202825969868142"
     }
   },
   {
     "address": "chihuahua1qe3n3yrxl2j3w7fetn3lfssmkpad8tjfyms4a9",
     "balance": {
       "denom": "uhuahua",
-      "amount": "5121405372367800"
+      "amount": "5104542335532800"
     }
   },
   {
     "address": "chihuahua1tygms3xhhs3yv487phx3dw4a95jn7t7lzwcswp",
     "balance": {
       "denom": "uhuahua",
-      "amount": "5037698101003657"
+      "amount": "5043441992355356"
     }
   },
   {
@@ -136,7 +136,7 @@
     "address": "chihuahua1l4735tn25cr0tjyjtdlcla020843hgjvtmvwrdtazfp9ut0a9arsd5w4ys",
     "balance": {
       "denom": "uhuahua",
-      "amount": "352398880739701"
+      "amount": "358534298951999"
     }
   },
   {
@@ -175,6 +175,13 @@
     }
   },
   {
+    "address": "chihuahua18wamg37s5v9fgnny7qh33h9twjfskf3s88j9a7",
+    "balance": {
+      "denom": "uhuahua",
+      "amount": "246288115914387"
+    }
+  },
+  {
     "address": "chihuahua1u0xv9nd8s7rfn4565djw9xq6ccjlpw6cmcsdjq",
     "balance": {
       "denom": "uhuahua",
@@ -186,13 +193,6 @@
     "balance": {
       "denom": "uhuahua",
       "amount": "243955050430000"
-    }
-  },
-  {
-    "address": "chihuahua18wamg37s5v9fgnny7qh33h9twjfskf3s88j9a7",
-    "balance": {
-      "denom": "uhuahua",
-      "amount": "243888115914387"
     }
   },
   {
@@ -227,7 +227,7 @@
     "address": "chihuahua1myghtaa08mfmemaegp2hqmmmcv3h6rwfe62dt4",
     "balance": {
       "denom": "uhuahua",
-      "amount": "153122755215213"
+      "amount": "151349574715213"
     }
   },
   {
@@ -294,6 +294,13 @@
     }
   },
   {
+    "address": "chihuahua14fketv99hlrlk80mkggw643spsj3yyf7qylvqn",
+    "balance": {
+      "denom": "uhuahua",
+      "amount": "122486758654279"
+    }
+  },
+  {
     "address": "chihuahua1tw84fkt8ldd8euqjgnvut2tkxgdmv2ln4tw94y",
     "balance": {
       "denom": "uhuahua",
@@ -301,10 +308,10 @@
     }
   },
   {
-    "address": "chihuahua14fketv99hlrlk80mkggw643spsj3yyf7qylvqn",
+    "address": "chihuahua1ak9ayttp730efu39fsxwdv662pxu7eywu9hd9x",
     "balance": {
       "denom": "uhuahua",
-      "amount": "119993637131928"
+      "amount": "119660484953398"
     }
   },
   {
@@ -350,13 +357,6 @@
     }
   },
   {
-    "address": "chihuahua1ak9ayttp730efu39fsxwdv662pxu7eywu9hd9x",
-    "balance": {
-      "denom": "uhuahua",
-      "amount": "99382846063621"
-    }
-  },
-  {
     "address": "chihuahua1vdv8v0ztfxwcu2zuh8tdfgchhq4f26pvf723dv",
     "balance": {
       "denom": "uhuahua",
@@ -389,13 +389,6 @@
     "balance": {
       "denom": "uhuahua",
       "amount": "90127270582026"
-    }
-  },
-  {
-    "address": "chihuahua16zgym03tnrl9s6ymxhfgd686vxrz54fqqg3wuk",
-    "balance": {
-      "denom": "uhuahua",
-      "amount": "86510887499262"
     }
   },
   {
@@ -567,13 +560,6 @@
     }
   },
   {
-    "address": "chihuahua1jshrvktsme0vh5z8kx6d8hgp7kp62zpxh3t2ld",
-    "balance": {
-      "denom": "uhuahua",
-      "amount": "50153053550457"
-    }
-  },
-  {
     "address": "chihuahua19du4llehge50k23pwwckj93lnvp9cyyer8ve9as663mz64nrhq9qn2gauk",
     "balance": {
       "denom": "uhuahua",
@@ -697,6 +683,20 @@
     "balance": {
       "denom": "uhuahua",
       "amount": "37238852810050"
+    }
+  },
+  {
+    "address": "chihuahua180rnez6exqkwlqlf64vlkpynj0h0p5lqfdp50z",
+    "balance": {
+      "denom": "uhuahua",
+      "amount": "36305415346596"
+    }
+  },
+  {
+    "address": "chihuahua1fe0gwet3gnuwu8sqv9jdqz8wcmc8ps8nutrmc0",
+    "balance": {
+      "denom": "uhuahua",
+      "amount": "36268794759484"
     }
   }
 ]
