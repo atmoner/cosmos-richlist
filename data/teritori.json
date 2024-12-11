@@ -3,14 +3,14 @@
     "address": "tori1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3h07xz8",
     "balance": {
       "denom": "utori",
-      "amount": "190465248982164"
+      "amount": "190930624006457"
     }
   },
   {
     "address": "tori1jv65s3grqf6v6jl3dp4t6c9t9rk99cd89tn4j0",
     "balance": {
       "denom": "utori",
-      "amount": "106950226156522"
+      "amount": "107021086702131"
     }
   },
   {
@@ -24,28 +24,28 @@
     "address": "tori1at6zkjpxleg8nd8u67542fprzgsev6jh5lfzne",
     "balance": {
       "denom": "utori",
-      "amount": "84292832956451"
+      "amount": "84354443794751"
     }
   },
   {
     "address": "tori1a53udazy8ayufvy0s434pfwjcedzqv345c4vs7",
     "balance": {
       "denom": "utori",
-      "amount": "36046879868222"
+      "amount": "36542921425945"
     }
   },
   {
     "address": "tori1efcnw3j074urqryseyx4weahr2p5at9lhwcaju",
     "balance": {
       "denom": "utori",
-      "amount": "31616983179418"
+      "amount": "31634905157325"
     }
   },
   {
     "address": "tori1tygms3xhhs3yv487phx3dw4a95jn7t7lr0zh5n",
     "balance": {
       "denom": "utori",
-      "amount": "27381056261690"
+      "amount": "26969855527382"
     }
   },
   {
@@ -66,21 +66,21 @@
     "address": "tori1g7ryul6kv8wv7p032c3shede4yps74h0qlq0a0",
     "balance": {
       "denom": "utori",
-      "amount": "7412402903683"
+      "amount": "7416725852767"
     }
   },
   {
     "address": "tori1jmcglw0kv9k2wyj4h52yg66qtn6r5sxyjlhhs3",
     "balance": {
       "denom": "utori",
-      "amount": "6875008506618"
+      "amount": "6969109506618"
     }
   },
   {
     "address": "tori1a28lq0usqrma2tn5t7vmdg3jnglh3v3qln4ky0",
     "balance": {
       "denom": "utori",
-      "amount": "6520195801180"
+      "amount": "6544840136500"
     }
   },
   {
@@ -94,21 +94,21 @@
     "address": "tori1s8qa7466v6pnc7mqhntnzx0kukf3nl52ks9eyl",
     "balance": {
       "denom": "utori",
-      "amount": "4447556850608"
+      "amount": "4450150616912"
     }
   },
   {
     "address": "tori10rp3k6jh8nxmrvdxaf6vwcv6z0ad6p7azkv690",
     "balance": {
       "denom": "utori",
-      "amount": "3714682214355"
+      "amount": "3717275984147"
     }
   },
   {
     "address": "tori16n36a4xryrcaf4vtk9nuqq0lzrs3qkmjxvvuaf",
     "balance": {
       "denom": "utori",
-      "amount": "2475013336635"
+      "amount": "2477607432683"
     }
   },
   {
@@ -122,21 +122,21 @@
     "address": "tori1zyakv8ny9p5esrpv3rgls707rd9anjzla2q7vj",
     "balance": {
       "denom": "utori",
-      "amount": "2223777080320"
+      "amount": "2225073963472"
     }
   },
   {
     "address": "tori1zyakv8ny9p5esrpv3rgls707rd9anjzla2q7vj",
     "balance": {
       "denom": "utori",
-      "amount": "2223776255960"
+      "amount": "2225073139112"
     }
   },
   {
     "address": "tori1xwmdtmhmtx0vsz6vd6yjn6z26rwj6c59cz0vfj",
     "balance": {
       "denom": "utori",
-      "amount": "1970070659142"
+      "amount": "1971367542294"
     }
   },
   {
@@ -157,7 +157,7 @@
     "address": "tori184vpdnt4pzkz70ery009l9ac5p8sel7swjewpz",
     "balance": {
       "denom": "utori",
-      "amount": "1520962991923"
+      "amount": "1522259875075"
     }
   },
   {
@@ -207,13 +207,6 @@
     "balance": {
       "denom": "utori",
       "amount": "668637910116"
-    }
-  },
-  {
-    "address": "tori107kkd3vfl2qv0jw8ju3mxkznpd7g92wd5v6z4m",
-    "balance": {
-      "denom": "utori",
-      "amount": "565581361750"
     }
   },
   {
@@ -283,7 +276,7 @@
     "address": "tori18cgtgz6q7ly4suukk744cjep4uxhm5z3artxft",
     "balance": {
       "denom": "utori",
-      "amount": "444749692944"
+      "amount": "445009066428"
     }
   },
   {
@@ -308,6 +301,13 @@
     }
   },
   {
+    "address": "tori12vssh8spx53qzg532xpj22sa7e85ts4x5dm4q9",
+    "balance": {
+      "denom": "utori",
+      "amount": "359790642580"
+    }
+  },
+  {
     "address": "tori1a7enjntdrytnxscm3469q4sad5a3uxughks8en",
     "balance": {
       "denom": "utori",
@@ -318,7 +318,7 @@
     "address": "tori1l3ggmanvvmm3ph66tw04gdpyd0qwm7pkjrjvjr",
     "balance": {
       "denom": "utori",
-      "amount": "352344769500"
+      "amount": "352604175958"
     }
   },
   {
@@ -350,13 +350,6 @@
     }
   },
   {
-    "address": "tori12vssh8spx53qzg532xpj22sa7e85ts4x5dm4q9",
-    "balance": {
-      "denom": "utori",
-      "amount": "321610872636"
-    }
-  },
-  {
     "address": "tori1yjfq497pa2y6lc7qxpmx80v5sv7kgdal30r2ls",
     "balance": {
       "denom": "utori",
@@ -367,7 +360,7 @@
     "address": "tori1shfq05pu5x8lwm4rng44v7qt888hg78wf4g97x",
     "balance": {
       "denom": "utori",
-      "amount": "280695387924"
+      "amount": "280868298336"
     }
   },
   {
@@ -406,13 +399,6 @@
     }
   },
   {
-    "address": "tori1tf8n4n0fqdmeqlnks3hq6wye5etg4lhq24g756",
-    "balance": {
-      "denom": "utori",
-      "amount": "204061499264"
-    }
-  },
-  {
     "address": "tori1e22ndnxlu7542peplgesrzx04d6d69y40qknhv",
     "balance": {
       "denom": "utori",
@@ -423,7 +409,7 @@
     "address": "tori12dgvzxvd339paqvu83vx9wq36j0w3zyxsy3uar",
     "balance": {
       "denom": "utori",
-      "amount": "200153592531"
+      "amount": "200326502943"
     }
   },
   {
@@ -444,7 +430,7 @@
     "address": "tori1lcv8mtg9h4qgpvrfq63sqpad25rqa5w7p9sgct",
     "balance": {
       "denom": "utori",
-      "amount": "194391220275"
+      "amount": "194391220836"
     }
   },
   {
@@ -458,21 +444,21 @@
     "address": "tori1pkm998xw4vtluu0k4agya7e6zf4rwxsl3ef7qz",
     "balance": {
       "denom": "utori",
-      "amount": "160967277208"
+      "amount": "160967715368"
     }
   },
   {
     "address": "tori1pkm998xw4vtluu0k4agya7e6zf4rwxsl3ef7qz",
     "balance": {
       "denom": "utori",
-      "amount": "160967277208"
+      "amount": "160967715368"
     }
   },
   {
     "address": "tori1nra74gcsqy88m9xe5r6jpgyfr6w7zj390ek3w8",
     "balance": {
       "denom": "utori",
-      "amount": "157212302009"
+      "amount": "157386866905"
     }
   },
   {
@@ -528,7 +514,7 @@
     "address": "tori1mq05ml4zmg4eus96k72re3n06ghuz0txvg5zpd",
     "balance": {
       "denom": "utori",
-      "amount": "113415912720"
+      "amount": "113511024750"
     }
   },
   {
@@ -542,14 +528,14 @@
     "address": "tori1znhgcje2np5v34nk7j7t4jes4f8mu6al9t4f6r",
     "balance": {
       "denom": "utori",
-      "amount": "111181912580"
+      "amount": "111246752018"
     }
   },
   {
     "address": "tori1znhgcje2np5v34nk7j7t4jes4f8mu6al9t4f6r",
     "balance": {
       "denom": "utori",
-      "amount": "111181871365"
+      "amount": "111246710803"
     }
   },
   {
@@ -557,6 +543,13 @@
     "balance": {
       "denom": "utori",
       "amount": "109218228726"
+    }
+  },
+  {
+    "address": "tori1vdj6wxngdc5pyc75fa4r7u8glgvj7uhhejlw3x",
+    "balance": {
+      "denom": "utori",
+      "amount": "106641655625"
     }
   },
   {
@@ -570,7 +563,7 @@
     "address": "tori1eth25yr535x29p32wllelj09u5kaqw8d98882l",
     "balance": {
       "denom": "utori",
-      "amount": "100365814366"
+      "amount": "100365962806"
     }
   },
   {
@@ -598,7 +591,7 @@
     "address": "tori1uwr8dn8h3qsrwt2pew57r577qhzk9w5w2nmcfm",
     "balance": {
       "denom": "utori",
-      "amount": "96907345836"
+      "amount": "97015430549"
     }
   },
   {
@@ -619,21 +612,21 @@
     "address": "tori1pv6n9f8eml89rmzxnuzz70936hm60a3970ks84",
     "balance": {
       "denom": "utori",
-      "amount": "93807919601"
+      "amount": "93916004314"
     }
   },
   {
     "address": "tori1pv6n9f8eml89rmzxnuzz70936hm60a3970ks84",
     "balance": {
       "denom": "utori",
-      "amount": "93807864645"
+      "amount": "93915935619"
     }
   },
   {
     "address": "tori10y7y3rrmawsfx7n57qxjst6gd6zreuqpplccwq",
     "balance": {
       "denom": "utori",
-      "amount": "92787203118"
+      "amount": "92873658324"
     }
   },
   {
@@ -661,7 +654,7 @@
     "address": "tori17nqxtdm7nrj0ne0jumkkmsjghxytdv8lqtyuss",
     "balance": {
       "denom": "utori",
-      "amount": "86317742322"
+      "amount": "86412854352"
     }
   },
   {
@@ -697,6 +690,13 @@
     "balance": {
       "denom": "utori",
       "amount": "82259765199"
+    }
+  },
+  {
+    "address": "tori1wt3vtjzsmz395lf79fyt8jrcteux38ayy6wm84",
+    "balance": {
+      "denom": "utori",
+      "amount": "81631922080"
     }
   }
 ]
