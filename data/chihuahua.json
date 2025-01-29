@@ -3,35 +3,35 @@
     "address": "chihuahua1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3kwypc4",
     "balance": {
       "denom": "uhuahua",
-      "amount": "41032246629613524"
+      "amount": "40932223482359022"
     }
   },
   {
     "address": "chihuahua1r726yra3euctv92qqfxh45xztewgp2qjh3k5k8",
     "balance": {
       "denom": "uhuahua",
-      "amount": "22680987047433748"
+      "amount": "22644886695271173"
     }
   },
   {
     "address": "chihuahua1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8y2fjga",
     "balance": {
       "denom": "uhuahua",
-      "amount": "10058541980502212"
+      "amount": "10058437160409087"
     }
   },
   {
     "address": "chihuahua1qe3n3yrxl2j3w7fetn3lfssmkpad8tjfyms4a9",
     "balance": {
       "denom": "uhuahua",
-      "amount": "5446936736595007"
+      "amount": "5450974969305007"
     }
   },
   {
     "address": "chihuahua1tygms3xhhs3yv487phx3dw4a95jn7t7lzwcswp",
     "balance": {
       "denom": "uhuahua",
-      "amount": "4716132932311863"
+      "amount": "4814904547500540"
     }
   },
   {
@@ -115,7 +115,7 @@
     "address": "chihuahua18wamg37s5v9fgnny7qh33h9twjfskf3s88j9a7",
     "balance": {
       "denom": "uhuahua",
-      "amount": "422472955010695"
+      "amount": "432384365010695"
     }
   },
   {
@@ -126,17 +126,17 @@
     }
   },
   {
-    "address": "chihuahua1wn2ka8vm9tkx04062twsc32gwmrn4tthf3wqhr",
-    "balance": {
-      "denom": "uhuahua",
-      "amount": "383712550348749"
-    }
-  },
-  {
     "address": "chihuahua1n4u9s9h3c670s7wsfycf6v7d7f2t55qldkumj2",
     "balance": {
       "denom": "uhuahua",
-      "amount": "377075504435700"
+      "amount": "392074628256950"
+    }
+  },
+  {
+    "address": "chihuahua1wn2ka8vm9tkx04062twsc32gwmrn4tthf3wqhr",
+    "balance": {
+      "denom": "uhuahua",
+      "amount": "384466199378749"
     }
   },
   {
@@ -150,7 +150,7 @@
     "address": "chihuahua127syd36f280zgtlhqcyldwnpxv0fa9kl9zxqfp",
     "balance": {
       "denom": "uhuahua",
-      "amount": "340520780446829"
+      "amount": "341094659556829"
     }
   },
   {
