@@ -3,35 +3,35 @@
     "address": "chihuahua1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3kwypc4",
     "balance": {
       "denom": "uhuahua",
-      "amount": "40975155599796331"
+      "amount": "40933431375334430"
     }
   },
   {
     "address": "chihuahua1r726yra3euctv92qqfxh45xztewgp2qjh3k5k8",
     "balance": {
       "denom": "uhuahua",
-      "amount": "23708582239921567"
+      "amount": "23700925299396028"
     }
   },
   {
     "address": "chihuahua1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8y2fjga",
     "balance": {
       "denom": "uhuahua",
-      "amount": "10198395733158151"
+      "amount": "10201894212994904"
     }
   },
   {
     "address": "chihuahua1qe3n3yrxl2j3w7fetn3lfssmkpad8tjfyms4a9",
     "balance": {
       "denom": "uhuahua",
-      "amount": "5564130396515800"
+      "amount": "5562207456695800"
     }
   },
   {
     "address": "chihuahua1tygms3xhhs3yv487phx3dw4a95jn7t7lzwcswp",
     "balance": {
       "denom": "uhuahua",
-      "amount": "4599132564365981"
+      "amount": "4596975256872216"
     }
   },
   {
@@ -150,7 +150,7 @@
     "address": "chihuahua1wn2ka8vm9tkx04062twsc32gwmrn4tthf3wqhr",
     "balance": {
       "denom": "uhuahua",
-      "amount": "290716871049435"
+      "amount": "291256869049435"
     }
   },
   {
@@ -227,7 +227,7 @@
     "address": "chihuahua1jghnsdy7cfe3ulpm3fs6elsf9sp0dp5vzcduuy",
     "balance": {
       "denom": "uhuahua",
-      "amount": "182697827293924"
+      "amount": "186746327293924"
     }
   },
   {
@@ -385,13 +385,6 @@
     }
   },
   {
-    "address": "chihuahua18vg74w7u5mk2d8jwuqqqhsyu78rsq2l2ux0d60",
-    "balance": {
-      "denom": "uhuahua",
-      "amount": "90199401902335"
-    }
-  },
-  {
     "address": "chihuahua1k0vcyy679qcvcjgq8cm63ahlxv88fg0ukxkfzc",
     "balance": {
       "denom": "uhuahua",
@@ -403,6 +396,13 @@
     "balance": {
       "denom": "uhuahua",
       "amount": "90000230176007"
+    }
+  },
+  {
+    "address": "chihuahua18vg74w7u5mk2d8jwuqqqhsyu78rsq2l2ux0d60",
+    "balance": {
+      "denom": "uhuahua",
+      "amount": "90000203022335"
     }
   },
   {
