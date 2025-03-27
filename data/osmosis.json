@@ -3,7 +3,7 @@
     "address": "osmo1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3aq6l09",
     "balance": {
       "denom": "uosmo",
-      "amount": "323507663463807"
+      "amount": "323437500332831"
     }
   },
   {
@@ -17,7 +17,7 @@
     "address": "osmo1tygms3xhhs3yv487phx3dw4a95jn7t7lfqxwe3",
     "balance": {
       "denom": "uosmo",
-      "amount": "21845318507149"
+      "amount": "21908850727592"
     }
   },
   {
@@ -178,14 +178,14 @@
     "address": "osmo1v75g7hkmgks087p32yz9l3c88l9h02p2q5mr0t",
     "balance": {
       "denom": "uosmo",
-      "amount": "855028705285"
+      "amount": "854858460243"
     }
   },
   {
     "address": "osmo1tpscytfgstaauljmhevuhtdnnd579fnfla326j",
     "balance": {
       "denom": "uosmo",
-      "amount": "796431555352"
+      "amount": "796420740574"
     }
   },
   {
@@ -262,7 +262,7 @@
     "address": "osmo1qgudn5p8rzss64a6zpl3dtf3mgyak68y7v5hy9",
     "balance": {
       "denom": "uosmo",
-      "amount": "347437347062"
+      "amount": "347932297062"
     }
   },
   {
@@ -276,7 +276,7 @@
     "address": "osmo10p7dg5nh8kwjhfucq0uxjppg6wkevzmg67c4hx",
     "balance": {
       "denom": "uosmo",
-      "amount": "303642166798"
+      "amount": "296775002303"
     }
   },
   {
@@ -402,7 +402,7 @@
     "address": "osmo1tqctx98qz2aa25j5knzuztxaerl3z0ld8q6c72",
     "balance": {
       "denom": "uosmo",
-      "amount": "169726128435"
+      "amount": "169725843853"
     }
   },
   {
@@ -651,17 +651,17 @@
     }
   },
   {
-    "address": "osmo1z5wwd0fz6drdd5ukjfkzegcn2ntydqfuu2j89j",
-    "balance": {
-      "denom": "uosmo",
-      "amount": "85878649308"
-    }
-  },
-  {
     "address": "osmo1z98eg2ztdp2glyla62629nrlvczg8s7f8sgpm5",
     "balance": {
       "denom": "uosmo",
       "amount": "85800529168"
+    }
+  },
+  {
+    "address": "osmo1z5wwd0fz6drdd5ukjfkzegcn2ntydqfuu2j89j",
+    "balance": {
+      "denom": "uosmo",
+      "amount": "85705783060"
     }
   },
   {
@@ -696,7 +696,7 @@
     "address": "osmo18pl2hy3qe783pfqe3wwaztas24l8n7t35nmfyj",
     "balance": {
       "denom": "uosmo",
-      "amount": "79875611775"
+      "amount": "79870611775"
     }
   }
 ]
