@@ -156,9 +156,29 @@ export default [
     coingeckoId: 'cosmos',
     feeMultiplier: 1.3,
     gasPrice: 0.025,
-    explorerUrl: 'https://www.mintscan.io/cosmos/txs/',
-    coingeckoId: 'cosmos',
+    explorerUrl: 'https://www.mintscan.io/cosmos/txs/', 
     color: "#0091EA",
     colorChart: ['#20212b', '#2E3148', '#0091EA', '#004d38'],
-  }   
+  },
+  {
+    chainId: "osmosis-1",
+    name: "Osmosis",
+    desc: "osmosis",
+    slot: "osmosis",
+    mode: 'mainnet',
+    apiURL: "https://osmosis-api.polkachu.com/",
+    rpcURL: "https://osmosis-rpc.polkachu.com/",
+    coinLookup: {
+      viewDenom: "OSMO",
+      chainDenom: "uosmo",
+      addressPrefix: "osmo",
+      icon: "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg"
+    }, 
+    feeMultiplier: 1.3,
+    gasPrice: 0.025,
+    explorerUrl: 'https://www.mintscan.io/osmosis/txs/',
+    coingeckoId: 'osmosis',
+    color: "#0091EA",
+    colorChart: ['#20212b', '#2E3148', '#0091EA', '#004d38'],
+  } 
 ]
