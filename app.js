@@ -23,7 +23,7 @@ async function searchLargestAccounts(chain) {
   let netxPaginateKey = '';
   let totalPaginate = 0;
   let finalAccounts = [];
-  for (let i = 0; i < 2; i++) {
+  for (let i = 0; i < 20; i++) {
     const response = await queryAuth.DenomOwners({ denom: chain.coinLookup.chainDenom, pagination: {
       countTotal: true,
       key: netxPaginateKey,
