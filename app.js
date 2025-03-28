@@ -28,7 +28,7 @@ async function searchLargestAccounts(chain) {
       countTotal: true,
       key: netxPaginateKey,
       offset: Long.fromNumber(0, true),
-      limit: Long.fromNumber(1000, true),
+      limit: Long.fromNumber(10000, true),
       reverse: false,
     }});
     netxPaginateKey = response.pagination.nextKey;
