@@ -3,35 +3,35 @@
     "address": "osmo1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3aq6l09",
     "balance": {
       "denom": "uosmo",
-      "amount": "313956984122465"
+      "amount": "314112765695810"
     }
   },
   {
     "address": "osmo1jv65s3grqf6v6jl3dp4t6c9t9rk99cd80yhvld",
     "balance": {
       "denom": "uosmo",
-      "amount": "94991374831343"
+      "amount": "95132901943605"
     }
   },
   {
     "address": "osmo1vqy8rqqlydj9wkcyvct9zxl3hc4eqgu3d7hd9k",
     "balance": {
       "denom": "uosmo",
-      "amount": "66849315078637"
+      "amount": "66803652978187"
     }
   },
   {
     "address": "osmo1krmqr8zhvteevq4hnl7q0pxtff6xpnqz4ckxcu",
     "balance": {
       "denom": "uosmo",
-      "amount": "27821306157621"
+      "amount": "28373738678487"
     }
   },
   {
     "address": "osmo1tygms3xhhs3yv487phx3dw4a95jn7t7lfqxwe3",
     "balance": {
       "denom": "uosmo",
-      "amount": "19964033908742"
+      "amount": "19315105872110"
     }
   },
   {
@@ -45,21 +45,21 @@
     "address": "osmo1p83q2g9t20lfk07w53vvy5flrvr6c6gh65xufy47546z555af88qwlwqvg",
     "balance": {
       "denom": "uosmo",
-      "amount": "12949665243105"
+      "amount": "12969979217323"
     }
   },
   {
     "address": "osmo14kjcwdwcqsujkdt8n5qwpd8x8ty2rys5rjrdjj",
     "balance": {
       "denom": "uosmo",
-      "amount": "8806009648624"
+      "amount": "8819192297025"
     }
   },
   {
     "address": "osmo19qgldlsk7hdv3ddtwwpvzff30pxqe9phq9evxf",
     "balance": {
       "denom": "uosmo",
-      "amount": "7711796720099"
+      "amount": "7716340099094"
     }
   },
   {
@@ -80,7 +80,7 @@
     "address": "osmo1kvc3he93ygc0us3ycslwlv2gdqry4ta73vk9hu",
     "balance": {
       "denom": "uosmo",
-      "amount": "5093521146510"
+      "amount": "5098498315459"
     }
   },
   {
@@ -98,17 +98,17 @@
     }
   },
   {
-    "address": "osmo1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqmcn030",
-    "balance": {
-      "denom": "uosmo",
-      "amount": "3220834690049"
-    }
-  },
-  {
     "address": "osmo1gw445ta0aqn26suz2rg3tkqfpxnq2hs224d7gq",
     "balance": {
       "denom": "uosmo",
-      "amount": "3211506849155"
+      "amount": "3221963470159"
+    }
+  },
+  {
+    "address": "osmo1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqmcn030",
+    "balance": {
+      "denom": "uosmo",
+      "amount": "3221917876517"
     }
   },
   {
@@ -154,17 +154,17 @@
     }
   },
   {
+    "address": "osmo13lt0hzc6u3htsk7z5rs6vuurmgg4hh2ecgxqkf",
+    "balance": {
+      "denom": "uosmo",
+      "amount": "2248572992001"
+    }
+  },
+  {
     "address": "osmo1s7ajedqh5vjddzlqqg7xrpq7sjgeqk870fyql3",
     "balance": {
       "denom": "uosmo",
       "amount": "2246938316009"
-    }
-  },
-  {
-    "address": "osmo13lt0hzc6u3htsk7z5rs6vuurmgg4hh2ecgxqkf",
-    "balance": {
-      "denom": "uosmo",
-      "amount": "2241152900677"
     }
   },
   {
@@ -199,7 +199,7 @@
     "address": "osmo1jdzgaxc66f32januvh2dtngzmfaacf4na6yz95",
     "balance": {
       "denom": "uosmo",
-      "amount": "2012060789033"
+      "amount": "2010777620360"
     }
   },
   {
@@ -224,13 +224,6 @@
     }
   },
   {
-    "address": "osmo155svs6sgxe55rnvs6ghprtqu0mh69kehtguak3",
-    "balance": {
-      "denom": "uosmo",
-      "amount": "1856117291681"
-    }
-  },
-  {
     "address": "osmo1uc6d5lr7q2rcx3yp97ugytpwcnuw2gy2qfvnl6",
     "balance": {
       "denom": "uosmo",
@@ -238,10 +231,17 @@
     }
   },
   {
+    "address": "osmo155svs6sgxe55rnvs6ghprtqu0mh69kehtguak3",
+    "balance": {
+      "denom": "uosmo",
+      "amount": "1677994131706"
+    }
+  },
+  {
     "address": "osmo15x7y2z6x8kylt6qwefxzcwxnlfhp95syfcnl90",
     "balance": {
       "denom": "uosmo",
-      "amount": "1626771194976"
+      "amount": "1598274476206"
     }
   },
   {
@@ -252,13 +252,6 @@
     }
   },
   {
-    "address": "osmo1v75g7hkmgks087p32yz9l3c88l9h02p2q5mr0t",
-    "balance": {
-      "denom": "uosmo",
-      "amount": "1582339453083"
-    }
-  },
-  {
     "address": "osmo1rqzgjeauamr5g707s5ka5na8p83u6ftkus4u4r",
     "balance": {
       "denom": "uosmo",
@@ -266,17 +259,10 @@
     }
   },
   {
-    "address": "osmo1nm0rrq86ucezaf8uj35pq9fpwr5r82cl0ttwhx",
+    "address": "osmo1v75g7hkmgks087p32yz9l3c88l9h02p2q5mr0t",
     "balance": {
       "denom": "uosmo",
-      "amount": "1451107588994"
-    }
-  },
-  {
-    "address": "osmo1w59t7d5rejszly78chpw2u7ftz0sq8pl4rsz0d",
-    "balance": {
-      "denom": "uosmo",
-      "amount": "1322469758492"
+      "amount": "1428509107390"
     }
   },
   {
@@ -290,7 +276,14 @@
     "address": "osmo1pqhy7u6s4cyvwygacnh2vleur7g8tf4cg2wcwlnaa2gp6trdmaxqk6dajz",
     "balance": {
       "denom": "uosmo",
-      "amount": "1288715947299"
+      "amount": "1289041665043"
+    }
+  },
+  {
+    "address": "osmo1nm0rrq86ucezaf8uj35pq9fpwr5r82cl0ttwhx",
+    "balance": {
+      "denom": "uosmo",
+      "amount": "1245851893086"
     }
   },
   {
@@ -301,6 +294,13 @@
     }
   },
   {
+    "address": "osmo1w59t7d5rejszly78chpw2u7ftz0sq8pl4rsz0d",
+    "balance": {
+      "denom": "uosmo",
+      "amount": "1219064190414"
+    }
+  },
+  {
     "address": "osmo1a6upt9haf4exwwmsjue2dh736298sjzvqr9j5q",
     "balance": {
       "denom": "uosmo",
@@ -308,17 +308,17 @@
     }
   },
   {
-    "address": "osmo1tpscytfgstaauljmhevuhtdnnd579fnfla326j",
-    "balance": {
-      "denom": "uosmo",
-      "amount": "1187259960879"
-    }
-  },
-  {
     "address": "osmo19fs55cx4594een7qr8tglrjtt5h9jrxg458htd",
     "balance": {
       "denom": "uosmo",
-      "amount": "1167139795431"
+      "amount": "1169879521458"
+    }
+  },
+  {
+    "address": "osmo1fzg6vwffwl6aaag3h5rhmchc3esnagx4wrwpv4",
+    "balance": {
+      "denom": "uosmo",
+      "amount": "1074726004789"
     }
   },
   {
@@ -329,24 +329,24 @@
     }
   },
   {
-    "address": "osmo1fzg6vwffwl6aaag3h5rhmchc3esnagx4wrwpv4",
+    "address": "osmo1eghehj7lt5ymx76uzxz8ftrd8ps2ndtjt4yrc9",
     "balance": {
       "denom": "uosmo",
-      "amount": "1066842979423"
+      "amount": "1060332595152"
     }
   },
   {
     "address": "osmo1tulvk3qsrt9u3h28z3mt83v97n37as5r2v5w3l",
     "balance": {
       "denom": "uosmo",
-      "amount": "975672172468"
+      "amount": "974763950807"
     }
   },
   {
     "address": "osmo1ssp6px3fs3kwreles3ft6c07mfvj89a544yj9k",
     "balance": {
       "denom": "uosmo",
-      "amount": "946333852861"
+      "amount": "947018784367"
     }
   },
   {
@@ -357,10 +357,17 @@
     }
   },
   {
+    "address": "osmo1tpscytfgstaauljmhevuhtdnnd579fnfla326j",
+    "balance": {
+      "denom": "uosmo",
+      "amount": "850751709524"
+    }
+  },
+  {
     "address": "osmo1c5yu8498yzqte9cmfv5zcgtl07lhpjrj0skqdx",
     "balance": {
       "denom": "uosmo",
-      "amount": "831506748453"
+      "amount": "831963369457"
     }
   },
   {
@@ -402,7 +409,7 @@
     "address": "osmo15qyz6eumfpj687h7a76secejuqw2mzaelz5ng0",
     "balance": {
       "denom": "uosmo",
-      "amount": "648982367419"
+      "amount": "648132302988"
     }
   },
   {
@@ -416,14 +423,14 @@
     "address": "osmo1yhj3r9t9vw7qgeg22cehfzj7enwgklw5k5v7lj",
     "balance": {
       "denom": "uosmo",
-      "amount": "623630036432"
+      "amount": "623972502185"
     }
   },
   {
     "address": "osmo1qpzfmre6ssf566d2un8lvzpa46rws3txx3ycrc",
     "balance": {
       "denom": "uosmo",
-      "amount": "619611467778"
+      "amount": "619729695692"
     }
   },
   {
@@ -438,6 +445,13 @@
     "balance": {
       "denom": "uosmo",
       "amount": "590514991609"
+    }
+  },
+  {
+    "address": "osmo10p7dg5nh8kwjhfucq0uxjppg6wkevzmg67c4hx",
+    "balance": {
+      "denom": "uosmo",
+      "amount": "556793399109"
     }
   },
   {
@@ -476,17 +490,10 @@
     }
   },
   {
-    "address": "osmo10p7dg5nh8kwjhfucq0uxjppg6wkevzmg67c4hx",
-    "balance": {
-      "denom": "uosmo",
-      "amount": "449605895881"
-    }
-  },
-  {
     "address": "osmo1v9k5gjpnmx6t04d8vzw2h7f7y09fjjh8v5pvp7",
     "balance": {
       "denom": "uosmo",
-      "amount": "442990611009"
+      "amount": "444303495480"
     }
   },
   {
@@ -500,7 +507,7 @@
     "address": "osmo1z2x9z58cg96ujvhvu6ga07yv9edq2mvkxpgwmc",
     "balance": {
       "denom": "uosmo",
-      "amount": "415753324045"
+      "amount": "415981634547"
     }
   },
   {
@@ -521,7 +528,7 @@
     "address": "osmo1tvf3373skua8e6480eyy38avv8mw3hnt8jcxg9",
     "balance": {
       "denom": "uosmo",
-      "amount": "395376612025"
+      "amount": "395490767276"
     }
   },
   {
@@ -553,17 +560,17 @@
     }
   },
   {
+    "address": "osmo1q7ul5yz2ma5mjj8vkf5njjz859wk4u90ley2emfx8th4xyx6fg7se0z4hn",
+    "balance": {
+      "denom": "uosmo",
+      "amount": "330571416754"
+    }
+  },
+  {
     "address": "osmo1lt83tymrlkcg7jtfrzv5370z9uthttpvljxzmv",
     "balance": {
       "denom": "uosmo",
       "amount": "329621142290"
-    }
-  },
-  {
-    "address": "osmo1q7ul5yz2ma5mjj8vkf5njjz859wk4u90ley2emfx8th4xyx6fg7se0z4hn",
-    "balance": {
-      "denom": "uosmo",
-      "amount": "327364060446"
     }
   },
   {
@@ -605,14 +612,14 @@
     "address": "osmo1qgudn5p8rzss64a6zpl3dtf3mgyak68y7v5hy9",
     "balance": {
       "denom": "uosmo",
-      "amount": "302910289427"
+      "amount": "302435676256"
     }
   },
   {
     "address": "osmo13vymg4ucq3afgff92m5c7wfn6g9l689wfx5qp3",
     "balance": {
       "denom": "uosmo",
-      "amount": "298656712154"
+      "amount": "295945376706"
     }
   },
   {
@@ -633,21 +640,21 @@
     "address": "osmo18nzmtyn5vy5y45dmcdnta8askldyvehx66lqgm",
     "balance": {
       "denom": "uosmo",
-      "amount": "282054679842"
+      "amount": "282374314545"
     }
   },
   {
     "address": "osmo1rzpe8kln5fty4df2xqs4k352suqk7s8tr4dcth",
     "balance": {
       "denom": "uosmo",
-      "amount": "280651719063"
+      "amount": "280565604663"
     }
   },
   {
     "address": "osmo186r8x6nukc4znzjd5qkpvg8fqtjh098zusgexu",
     "balance": {
       "denom": "uosmo",
-      "amount": "277446674758"
+      "amount": "277436671782"
     }
   },
   {
@@ -690,13 +697,6 @@
     "balance": {
       "denom": "uosmo",
       "amount": "239265967521"
-    }
-  },
-  {
-    "address": "osmo1vukdq6qfx39x6ddcsvswujcklzx56sjk8lsrlh",
-    "balance": {
-      "denom": "uosmo",
-      "amount": "235850748145"
     }
   }
 ]
