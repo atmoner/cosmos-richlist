@@ -3,28 +3,28 @@
     "address": "cosmos1fl48vsnmsdzcv85q5d2q4z5ajdha8yu34mf0eh",
     "balance": {
       "denom": "uatom",
-      "amount": "267011540427408"
+      "amount": "267080299924702"
     }
   },
   {
     "address": "cosmos1fl48vsnmsdzcv85q5d2q4z5ajdha8yu34mf0eh",
     "balance": {
       "denom": "uatom",
-      "amount": "267011494241313"
+      "amount": "267080292124702"
     }
   },
   {
     "address": "cosmos1jv65s3grqf6v6jl3dp4t6c9t9rk99cd88lyufl",
     "balance": {
       "denom": "uatom",
-      "amount": "23116845655289"
+      "amount": "23154352758610"
     }
   },
   {
     "address": "cosmos1jv65s3grqf6v6jl3dp4t6c9t9rk99cd88lyufl",
     "balance": {
       "denom": "uatom",
-      "amount": "23116830359485"
+      "amount": "23154304319705"
     }
   },
   {
@@ -45,14 +45,14 @@
     "address": "cosmos1tygms3xhhs3yv487phx3dw4a95jn7t7lpm470r",
     "balance": {
       "denom": "uatom",
-      "amount": "18652283170258"
+      "amount": "18722374762809"
     }
   },
   {
     "address": "cosmos1tygms3xhhs3yv487phx3dw4a95jn7t7lpm470r",
     "balance": {
       "denom": "uatom",
-      "amount": "18652283170258"
+      "amount": "18722366962809"
     }
   },
   {
@@ -73,21 +73,21 @@
     "address": "cosmos17kvae2jckzpkct78yealre3ms2gu28cdmtwsv7",
     "balance": {
       "denom": "uatom",
-      "amount": "3681179111638"
+      "amount": "3696237554647"
     }
   },
   {
     "address": "cosmos1x54ltnyg88k0ejmk8ytwrhd3ltm84xehrnlslf",
     "balance": {
       "denom": "uatom",
-      "amount": "3579475824475"
+      "amount": "3568059356534"
     }
   },
   {
     "address": "cosmos1x54ltnyg88k0ejmk8ytwrhd3ltm84xehrnlslf",
     "balance": {
       "denom": "uatom",
-      "amount": "3579447625781"
+      "amount": "3568058320376"
     }
   },
   {
@@ -122,28 +122,28 @@
     "address": "cosmos1nm0rrq86ucezaf8uj35pq9fpwr5r82cl8sc7p5",
     "balance": {
       "denom": "uatom",
-      "amount": "2509318061783"
+      "amount": "2517400440858"
     }
   },
   {
     "address": "cosmos1nm0rrq86ucezaf8uj35pq9fpwr5r82cl8sc7p5",
     "balance": {
       "denom": "uatom",
-      "amount": "2509318061783"
+      "amount": "2517400440858"
     }
   },
   {
     "address": "cosmos10tkfys86qhqaq7yp6edhkcr2s7v5zwr0adyvqv",
     "balance": {
       "denom": "uatom",
-      "amount": "2369962045000"
+      "amount": "2384620555000"
     }
   },
   {
     "address": "cosmos10tkfys86qhqaq7yp6edhkcr2s7v5zwr0adyvqv",
     "balance": {
       "denom": "uatom",
-      "amount": "2369962045000"
+      "amount": "2384620555000"
     }
   },
   {
@@ -164,14 +164,14 @@
     "address": "cosmos15ghk4pcyx7377m0s874nlg6yy2j4l2dc4zkfmw",
     "balance": {
       "denom": "uatom",
-      "amount": "1701360483938"
+      "amount": "1721414200025"
     }
   },
   {
     "address": "cosmos15ghk4pcyx7377m0s874nlg6yy2j4l2dc4zkfmw",
     "balance": {
       "denom": "uatom",
-      "amount": "1701360483938"
+      "amount": "1721414200025"
     }
   },
   {
@@ -206,7 +206,7 @@
     "address": "cosmos1aqas7uqu6wazrlwc9ng4rzfax2nnmc8qhngtjs",
     "balance": {
       "denom": "uatom",
-      "amount": "1196324647959"
+      "amount": "1198562367269"
     }
   },
   {
@@ -343,38 +343,38 @@
     }
   },
   {
+    "address": "cosmos12funfn8cv28y0qvlfvclddp9vuuddlc9xt2ep3",
+    "balance": {
+      "denom": "uatom",
+      "amount": "872631060688"
+    }
+  },
+  {
+    "address": "cosmos12funfn8cv28y0qvlfvclddp9vuuddlc9xt2ep3",
+    "balance": {
+      "denom": "uatom",
+      "amount": "872631060688"
+    }
+  },
+  {
+    "address": "cosmos144sh8vyv5nqfylmg4mlydnpe3l4w780jsrmf4k",
+    "balance": {
+      "denom": "uatom",
+      "amount": "871265494423"
+    }
+  },
+  {
+    "address": "cosmos144sh8vyv5nqfylmg4mlydnpe3l4w780jsrmf4k",
+    "balance": {
+      "denom": "uatom",
+      "amount": "871265494423"
+    }
+  },
+  {
     "address": "cosmos1l0znsvddllw9knha3yx2svnlxny676d8ns7uys",
     "balance": {
       "denom": "uatom",
-      "amount": "880144334691"
-    }
-  },
-  {
-    "address": "cosmos12funfn8cv28y0qvlfvclddp9vuuddlc9xt2ep3",
-    "balance": {
-      "denom": "uatom",
-      "amount": "872631060688"
-    }
-  },
-  {
-    "address": "cosmos12funfn8cv28y0qvlfvclddp9vuuddlc9xt2ep3",
-    "balance": {
-      "denom": "uatom",
-      "amount": "872631060688"
-    }
-  },
-  {
-    "address": "cosmos144sh8vyv5nqfylmg4mlydnpe3l4w780jsrmf4k",
-    "balance": {
-      "denom": "uatom",
-      "amount": "867357864911"
-    }
-  },
-  {
-    "address": "cosmos144sh8vyv5nqfylmg4mlydnpe3l4w780jsrmf4k",
-    "balance": {
-      "denom": "uatom",
-      "amount": "867357864911"
+      "amount": "857221898584"
     }
   },
   {
@@ -458,14 +458,14 @@
     "address": "cosmos1de93cyfzhz6mckyk4nry5ykulr2n99cqjv95em",
     "balance": {
       "denom": "uatom",
-      "amount": "709268164128"
+      "amount": "710303207941"
     }
   },
   {
     "address": "cosmos1de93cyfzhz6mckyk4nry5ykulr2n99cqjv95em",
     "balance": {
       "denom": "uatom",
-      "amount": "709268164128"
+      "amount": "710303207941"
     }
   },
   {
@@ -521,7 +521,7 @@
     "address": "cosmos1h9ymfm2fxrqgd257dlw5nku3jgqjgpl59sm5ns",
     "balance": {
       "denom": "uatom",
-      "amount": "512613074674"
+      "amount": "512599097774"
     }
   },
   {
@@ -612,28 +612,28 @@
     "address": "cosmos1f9cae0zhtjm4ul2uhq60vs8ulm9am4w4v5rw40",
     "balance": {
       "denom": "uatom",
-      "amount": "396934010187"
+      "amount": "397069035530"
     }
   },
   {
     "address": "cosmos1f9cae0zhtjm4ul2uhq60vs8ulm9am4w4v5rw40",
     "balance": {
       "denom": "uatom",
-      "amount": "396934010187"
+      "amount": "397069035530"
     }
   },
   {
     "address": "cosmos197v98nkhnxr54x45hrcagnu2rr2ckyn7dz37t6",
     "balance": {
       "denom": "uatom",
-      "amount": "395526910277"
+      "amount": "395537529242"
     }
   },
   {
     "address": "cosmos197v98nkhnxr54x45hrcagnu2rr2ckyn7dz37t6",
     "balance": {
       "denom": "uatom",
-      "amount": "395526910277"
+      "amount": "395537529242"
     }
   },
   {
@@ -644,17 +644,17 @@
     }
   },
   {
-    "address": "cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd",
+    "address": "cosmos1469t739397vvhvadk37ry34gj2lhca6cvedm93",
     "balance": {
       "denom": "uatom",
-      "amount": "377872688762"
+      "amount": "365875434444"
     }
   },
   {
-    "address": "cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd",
+    "address": "cosmos1469t739397vvhvadk37ry34gj2lhca6cvedm93",
     "balance": {
       "denom": "uatom",
-      "amount": "377872688762"
+      "amount": "365875434444"
     }
   },
   {
@@ -672,31 +672,31 @@
     }
   },
   {
-    "address": "cosmos1469t739397vvhvadk37ry34gj2lhca6cvedm93",
+    "address": "cosmos1s8z2rsu2gf8ntttcm8nqcpkkd3s8uwn89mgv5y",
     "balance": {
       "denom": "uatom",
-      "amount": "364442730581"
-    }
-  },
-  {
-    "address": "cosmos1469t739397vvhvadk37ry34gj2lhca6cvedm93",
-    "balance": {
-      "denom": "uatom",
-      "amount": "364442730581"
+      "amount": "354651430093"
     }
   },
   {
     "address": "cosmos1s8z2rsu2gf8ntttcm8nqcpkkd3s8uwn89mgv5y",
     "balance": {
       "denom": "uatom",
-      "amount": "354372056508"
+      "amount": "354651430093"
     }
   },
   {
-    "address": "cosmos1s8z2rsu2gf8ntttcm8nqcpkkd3s8uwn89mgv5y",
+    "address": "cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd",
     "balance": {
       "denom": "uatom",
-      "amount": "354372056508"
+      "amount": "350470546240"
+    }
+  },
+  {
+    "address": "cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd",
+    "balance": {
+      "denom": "uatom",
+      "amount": "350470546240"
     }
   }
 ]
